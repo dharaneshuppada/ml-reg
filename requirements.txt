@@ -3,3 +3,5 @@ pandas
 scikit-learn
 joblib
 scikit-learn==1.2.0
+distlib==1.2.0
+setuptools==65.5.0
